@@ -3,4 +3,7 @@
 - The app allows people to record medical diaries and gives recommendations on how to be fit for each individual (customised)
 
 # Programming language
+- JSP
+
+# Operating System
 - Android
